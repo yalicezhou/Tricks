@@ -1,2 +1,2 @@
-# Table Generator
+1. Table Generator
 http://www.tablesgenerator.com/
